@@ -7,7 +7,7 @@ categories: jekyll update
 
 Olá caro leitor, seja bem vindo. Nesta primeira postagem será feita uma breve introdução ao primeiro projeto exposto aqui no blog e então seguirá com outras 4 postagens mais detalhadas sobre cada etapa do projeto.
 
-O projeto foi desenvolvido em grupo (composto por três discentes) como proposta de atividade avaliativa do componente curricular Sistemas Digitais, da grade do curso de Engenharia Mecatrônica da UFRN. Trata-se de um display de leds rotativo, conhecido como POV rotativo. É assim chamado, devido o fenômeno Persistence Of Vision (persistência da visão ou persistência da retina). 
+O projeto foi desenvolvido em grupo (composto por três discentes) como proposta de atividade avaliativa do componente curricular Sistemas Digitais, da grade do curso de Engenharia Mecatrônica da UFRN. Trata-se de um display de leds rotativo, conhecido como POV rotativo. É assim chamado, devido o fenômeno ***Persistence Of Vision*** (persistência da visão ou persistência da retina). 
 
 Tal fenômeno torna possível ver a imagem estática mesmo que esteja sendo projetada em movimento.
 
