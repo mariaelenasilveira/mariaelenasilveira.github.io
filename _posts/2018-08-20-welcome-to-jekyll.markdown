@@ -15,9 +15,9 @@ Tal fenômeno torna possível ver a imagem estática mesmo que esteja sendo proj
 
 
 O projeto consiste em um display formado por uma fileira de leds, que ao ser rotacionada a uma velocidade específica e com os leds programados para acender no tempo certo, imprimem uma imagem já pré definida. É possível ver na Figura 1 a estrutura física parada e na figura 2 o display em movimento.
- ![POVfuncionamento](mariaelenasilveira.github.io/img/photo4954356484196640734.jpg)
+ ![POV rotativo em funcionamento](/mariaelenasilveira.github.io/img/em_funcionamento.jpg)
 
- ![POVrotativo](mariaelenasilveira.github.io/img/photo4954356484196640733.jpg "POV rotativo estático")
+ ![POVrotativo](/mariaelenasilveira.github.io/img/photo4954356484196640733.jpg "POV rotativo estático")
 
 Os materiais usados para desenvolvimento do projeto, foram em sua maioria reaproveitados.
 Para superfície giratória e também base do protótipo, usou-se um cooler de computador (especificar);
