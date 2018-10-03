@@ -13,6 +13,7 @@ Tal fenômeno torna possível ver a imagem estática mesmo que esteja sendo proj
 
 ![POV rotativo em funcionamento](/mariaelenasilveira.github.io/img/em_funcionamento.jpg)
 
+![POV rotativo em funcionamento](/mariaelenasilveira.github.io/img/em_funcionamento.jpg)
 
 
 O projeto consiste em um display formado por uma fileira de leds, que ao ser rotacionada a uma velocidade específica e com os leds programados para acender no tempo certo, imprimem uma imagem já pré definida. É possível ver na Figura 1 a estrutura física parada e na figura 2 o display em movimento.
