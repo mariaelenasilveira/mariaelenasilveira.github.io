@@ -12,7 +12,8 @@ Como já apresentado na primeira postagem, o projeto foi um trabalho avaliativo 
 Optamos por imprimir uma frase programada, a frase escolhida foi COISA BOA (jargão usado por nosso professor).
 O código basicamente contém uma função para cada letra, e na função main elas são chamadas na ordem desejada e com interrupção setada a partir da resposta do sensor, que informava o inicio de uma rotação.
 
-Para a implementação de cada função foi utilizado um simulador com uma matriz de leds onde era possivel desenhar a letra desejada e assim setar quais saídas seriam altas "1" ou baixas "0".
+Para a implementação de cada função foi utilizado um 
+[Simulador online](https://toxic-dev.github.io/LED-Matrix-Simulator/) com uma matriz de leds onde era possivel desenhar a letra desejada e assim setar quais saídas seriam altas "1" ou baixas "0".
 
 ![Desenho da letra "B"](/mariaelenasilveira.github.io/images/matriz-de-leds.png)
 
@@ -39,9 +40,6 @@ Uma fila da matriz é equivalente a nossa fileira de led, de maneira que para o 
 		PORTD = 0x00;
 		PORTB = 0x00;
 	}
-
-
-[Simulador disponível aqui](https://toxic-dev.github.io/LED-Matrix-Simulator/)
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
