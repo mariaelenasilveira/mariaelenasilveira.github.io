@@ -17,8 +17,6 @@ Para a implementação de cada função foi utilizado um
 
 ![Desenho da letra "B"](/mariaelenasilveira.github.io/images/matriz-de-leds.png "Desenho da letra 'B' na matriz")
 
-<img src="/mariaelenasilveira.github.io/images/matriz-de-leds.png" alt="B" title="Desenho da letra 'B' na matriz!" />
-
 Uma fila da matriz é equivalente a nossa fileira de led, de maneira que para o desenho ser feito setamos a saída de das portas na primeira fila, logo após um delay e então a saída da segunda fila e assim para quantas filas forem necessárias para formar a letra desejada. o trecho de codigo que mostra a função da letra "B" está a seguir.
 
 
@@ -43,7 +41,10 @@ Uma fila da matriz é equivalente a nossa fileira de led, de maneira que para o 
 		PORTB = 0x00;
 	}
 
-A atribuíção de cada porta foi feita analisando as portas do arduíno Nano com o uso do Datasheet
+A atribuíção de cada saída foi feita analisando as portas do arduíno Nano com o uso do Datasheet.
+a PB1 foi usada como porta de entrada para o sensor. e a PB0 usada como saída para o primeiro led. Por isso o valor atribuído ao PORTB sempre era 0 ou 2. 
+Já as portas de PD7 a PD2 foram usadas para completar os 7 leds.
+O valor setado no PORT é um valor completo para 8 bits em hexadecimal. Assim, se apenas os leds PD7 e PD6 iriam acender no PORTD, então o valor setado seria 11000000 que em hexadecimal correspondia a 0xc0.
 
 ![Datasheet arduíno Nano](/mariaelenasilveira.github.io/images/arduino-nano-datasheet.gif)
 
