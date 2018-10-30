@@ -43,6 +43,10 @@ Uma fila da matriz é equivalente a nossa fileira de led, de maneira que para o 
 		PORTB = 0x00;
 	}
 
+A atribuíção de cada porta foi feita analisando as portas do arduíno Nano com o uso do Datasheet
+
+![Datasheet arduíno Nano](/mariaelenasilveira.github.io/images/arduino-nano-datasheet.gif)
+
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
