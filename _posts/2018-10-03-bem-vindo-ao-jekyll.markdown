@@ -14,7 +14,7 @@ O código basicamente contém uma função para cada letra, e na função main e
 
 Para a implementação de cada função foi utilizado um simulador com uma matriz de leds onde era possivel desenhar a letra desejada e assim setar quais saídas seriam altas "1" ou baixas "0".
 
-[Simulador online da matriz de leds]: https://toxic-dev.github.io/LED-Matrix-Simulator/
+[Simulador online da matriz de leds](https://toxic-dev.github.io/LED-Matrix-Simulator/)
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
