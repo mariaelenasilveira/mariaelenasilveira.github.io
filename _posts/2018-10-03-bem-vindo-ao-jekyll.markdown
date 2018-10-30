@@ -48,6 +48,35 @@ O valor setado no PORT é um valor completo para 8 bits em hexadecimal. Assim, s
 
 ![Datasheet arduíno Nano](/mariaelenasilveira.github.io/images/arduino-nano-datasheet.gif)
 
+Fazendo essa analise para cada letra e implementando assim as funções desejadas, ao final foi chamado na função main as funções de cada letra formando a frase.
+
+
+	int main(){
+	    DDRD = 0xFC;
+	    // o pino PB0 é um pino especial para leitura pois pode ser usado
+	    // para controlar o timer/counter, pois ele é responsavel
+	    // pelo ICP1 (timer/counter1 input capture input)
+	    DDRB = 0x02;
+	    DDRC = 0x00;
+	    
+    cli();  //limpa as flags da interrupção
+    // configuração da interrupção
+    TCCR1A ^= (1 << WGM10); // seleciona o modo de operação normal do timer/counter
+    // no tccr1b será setado o
+    //icnc1 - filtra o sinal capturado (icp1)
+    //ices1 - seleciona a borda do icp1
+    //CS12, CS10 - divisor do clock
+    TCCR1B &= 0b11111000;
+    TCCR1B = 1 << ICNC1 | 1 << ICES1 | 1 << CS12 | 1 << CS10;
+    TCNT1 = 0;  // variavel do contador
+    TIMSK1 = (1 << ICIE1);  // enable da interrupção
+    sei(); //ativa as configurações
+    while(1){
+        
+	}
+	    
+	}
+
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
