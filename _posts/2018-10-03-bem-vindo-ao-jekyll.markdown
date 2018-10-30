@@ -14,32 +14,32 @@ O código basicamente contém uma função para cada letra, e na função main e
 
 Para a implementação de cada função foi utilizado um simulador com uma matriz de leds onde era possivel desenhar a letra desejada e assim setar quais saídas seriam altas "1" ou baixas "0".
 
-![Desenho da letra "B"](/mariaelenasilveira.github.io/images/matriz-de-leds.jpg)
+![Desenho da letra "B"](/mariaelenasilveira.github.io/images/matriz-de-leds.png)
 
 Uma fila da matriz é equivalente a nossa fileira de led, de maneira que para o desenho ser feito setamos a saída de das portas na primeira fila, logo após um delay e então a saída da segunda fila e assim para quantas filas forem necessárias para formar a letra desejada. o trecho de codigo que mostra a função da letra "B" está a seguir.
 
 
 	#define del1 1  //delay utilizado no programa
 	void B(){
-    	PORTD = 0xfc;
-    	PORTB = 0x00;
-    	_delay_ms(del1);
-    	PORTD = 0x24;
-    	PORTB = 0x02;
-    	_delay_ms(del1);
-    	PORTD = 0x24;
-	    PORTB = 0x02;
-	    _delay_ms(del1);
-	    PORTD = 0x24;
-	    PORTB = 0x02;
-	    _delay_ms(del1);
-	    PORTD = 0xd8;
-	    PORTB = 0x00;
-	    _delay_ms(del1);
-	    PORTD = 0x00;
-	    PORTB = 0x00;
+		PORTD = 0xfc;
+		PORTB = 0x00;
+		_delay_ms(del1);
+		PORTD = 0x24;
+		PORTB = 0x02;
+		_delay_ms(del1);
+		PORTD = 0x24;
+		PORTB = 0x02;
+		_delay_ms(del1);
+		PORTD = 0x24;
+		PORTB = 0x02;
+		_delay_ms(del1);
+		PORTD = 0xd8;
+		PORTB = 0x00;
+		_delay_ms(del1);
+		PORTD = 0x00;
+		PORTB = 0x00;
 	}
-'
+
 
 [Simulador disponível aqui](https://toxic-dev.github.io/LED-Matrix-Simulator/)
 
