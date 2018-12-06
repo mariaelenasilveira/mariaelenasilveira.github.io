@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "POV rotativo - Programação"
-date:   2018-08-20 18:54:00 -0300
+title:  "POV rotativo - Circuito"
+date:   2018-12-05 23:35:00 -0300
 categories: jekyll update
 ---
 
