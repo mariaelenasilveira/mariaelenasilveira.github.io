@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Cristã, missionária na missão N'ativa, estudante de Engenharia Mecatrônica pela UFRN.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mariaelenasilveira.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: Mariaelena Silveira
 github_username:  mariaelenasilveira
 
 # Build settings
