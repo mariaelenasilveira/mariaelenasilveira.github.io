@@ -5,8 +5,20 @@ date:   2018-12-06 05:54:00 -0300
 categories: jekyll update
 ---
 
-<h4>Nesta série de postagens post 4.</h4>
+<h4>Essa é nossa última postagem, já com a plaquinha do circuito em mãos e o codígo implementado, aqui vamos encaixar cada peça em seu devido lugar.</h4>
 
+A adotamos este cooler para ser nossa base giratória:
+
+![Cooler](/mariaelenasilveira.github.io/images/cooler.jpg)
+
+Em uma das extremidades do suporte colamos com cola quente um imã de neodímio, lembra que usamos um sensor de campo magnético??
+Pois é! O imã serve exatamente para que o sensor detecte uma volta completa ao passar por ele. A partir disso o codigo executa suas interrupções e imprime nas saídas dos leds os sinais desejados.
+
+Como o POV funciona em rotação e o arduíno precisa de uma fonte de alimentação, usamos uma bateria de 9V e ela ainda serviu como suporte na montagem, pois colamos ela bem no cendo de rotação do cooler e então em cima dela estruturamos todo o resto.
+
+A plaquinha colocamos em cima de um CD comum para servir de base. e pra ficar estéticamente mais agradável já que ele cobria a gambiarra que estava exposta. então o CD colamos na bateria. E assim estava pronto o nosso POV rotativo, partindo para os testes e ajustes necessários.
+
+   
 
 
 
