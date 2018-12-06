@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "POV rotativo - Circuito"
-date:   2018-12-05 23:35:00 -0300
+date:   2018-12-05 22:35:00 -0300
 categories: jekyll update
 ---
 
