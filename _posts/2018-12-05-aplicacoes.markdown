@@ -8,6 +8,7 @@ categories: jekyll update
 <h4>Nesta série de postagens post 3.</h4>
 
 
+![Circuito simulado](/mariaelenasilveira.github.io/images/circuito-pov.png)
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
