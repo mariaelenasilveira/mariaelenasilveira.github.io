@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "POV rotativo - Montagem e aplicações"
+date:   2018-12-06 05:54:00 -0300
+categories: jekyll update
+---
+
+<h4>Nesta série de postagens post 4.</h4>
+
+
+
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
