@@ -36,7 +36,7 @@ De maneira geral ele é um display, só que visivelmente mais atrativo e interes
 
 Termina-se aqui nossa série de postagens sobre o projeto do POV rotativo. Espero que tenha curtido.
 
-<!DOCTYPE html> <html> <body> <iframe width="560" height="315" src="https://www.youtube.com/embed/C1xwJuTIe8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </body> </html>
+<html> <body> <iframe width="560" height="315" src="https://www.youtube.com/embed/C1xwJuTIe8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </body> </html>
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
