@@ -5,7 +5,7 @@ date:   2018-08-20 18:54:00 -0300
 categories: jekyll update
 ---
 
-Olá caro leitor, seja bem vindo. Nesta postagem será feita uma breve introdução ao primeiro projeto exposto aqui no blog e então seguirá com outras 4 postagens mais detalhadas sobre cada etapa do projeto.
+Olá caro leitor, seja bem vindo. Nesta postagem será feita uma breve introdução ao primeiro projeto exposto aqui no blog e então seguirá com outras 3 postagens mais detalhadas sobre cada etapa do projeto.
 
 O projeto foi desenvolvido em grupo (composto por três discentes) como proposta de atividade avaliativa do componente curricular Sistemas Digitais, da grade do curso de Engenharia Mecatrônica da UFRN. Trata-se de um display de leds rotativo, conhecido como POV rotativo. É assim chamado, devido o fenômeno ***Persistence Of Vision*** (persistência da visão ou persistência da retina). 
 
