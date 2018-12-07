@@ -9,7 +9,7 @@ categories: jekyll update
 
 A optamos por este cooler para ser nossa base giratória:
 
-![Cooler](/mariaelenasilveira.github.io/images/cooler.jpg)
+![Cooler](/mariaelenasilveira.github.io/images/cooler.png)
 
 Em uma das extremidades do suporte colamos com cola quente, um imã de neodímio. Lembra que usamos um sensor de campo magnético??
 Pois é! O imã serve exatamente para que o sensor detecte uma volta completa ao passar por ele. A partir disso o codigo executa suas interrupções e imprime nas saídas dos leds os sinais desejados.
