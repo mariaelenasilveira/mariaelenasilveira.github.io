@@ -32,9 +32,13 @@ A forma como a imagem vai ser vista será de acordo com o programa que está set
 
 De maneira geral ele é um display, só que visivelmente mais atrativo e interessante. Portanto possui inumeras aplicações, desde que se queira imprimir algo desejado de maneira que chame, de certa forma, atenção.
 
+No vídeo mostra-se o resultado de nosso projeto e termina-se aqui nossa série de postagens sobre o projeto do POV rotativo. 
+
 <html> <body><center> <iframe width="560" height="315" src="https://www.youtube.com/embed/C1xwJuTIe8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center></body> </html>
 
-Termina-se aqui nossa série de postagens sobre o projeto do POV rotativo. Espero que tenha curtido.
+<h> Espero que tenha curtido e até mais. </h>
+
+
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
