@@ -23,8 +23,16 @@ Na imagem abaixo, a versão final do POV.
 ![POV rotativo estático](/mariaelenasilveira.github.io/images/estrutura_fisica.jpg "POV rotativo estático")
 
 
+<h4>O POV é basicamente um display em movimento, no caso em rotação. A imagem pode ser impressa de manneira que fique aparentemente estática para quem vê ou propositalmente em movimento.</h4>
 
+A forma como a imagem vai ser vista será de acordo com o programa que está setado no microcontrolador. Assim é possível o uso do POV em diversas aplicações:
+* Imprimir um nome/frase;
+* Relógio;
+* Objeto de decoração.
 
+De maneira geral ele é um display, só que visivelmente mais atrativo e interessante. Portanto possui inumeras aplicações, desde que se queira imprimir algo desejado de maneira que chame, de certa forma, atenção.
+
+Termina-se aqui nossa série de postagens sobre o projeto do POV rotativo. Espero que tenha curtido.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
