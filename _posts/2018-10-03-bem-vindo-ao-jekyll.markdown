@@ -94,6 +94,9 @@ Todos os parametros da interrupção foram setados na main. Aqui chamamos atenç
 O grupo desenvolveu o codigo, assim a baixo nível por ter sido um aspecto exigidido. Porém fica a critério pessoal, o uso de funções prontas de bibliotecas disponíveis que facilitam a programação em arduíno. Com uma pesquisada rapida na internet é possível encontrar propostas de códigos para essas funções. 
 
 
+[POV - circuito](https://mariaelenasilveira.github.io/jekyll/update/2018/12/06/aplicacoes.html "Clique e acesse agora!")
+
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

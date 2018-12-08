@@ -34,6 +34,8 @@ Na imagem, no lado esquerdo estavam os leds e no direito o arduíno nano.
 Boa parte do projeto já está feita, agora é preciso juntar tudo montando o "esqueleto" do projeto. Na próxima postagem mostraremos como se deu essa etapa. Até logo...  
 
 
+[POV - Montagem e aplicações](https://mariaelenasilveira.github.io/jekyll/update/2018/12/06/montagem.html "Clique e acesse agora!")
+
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
