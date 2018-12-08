@@ -23,6 +23,8 @@ Para montagem do circuito  com os leds foi usada uma placa de fenolite (x) leds 
 O arduíno nano (atmega 328) foi usado como microprocessador para hospedar o programa e controlar o processo.<br />
 Para que a imagem seja formada é necessário estabelecer o ponto de inicio da volta durante a rotação, para isso foi usado um red swith - um sensor de campo magnético - e um imã de neodímio na estrutura do cooler assim era estabelecido no codigo o inicio da rotação; a fonte de energia para o pequeno circuito foi uma bateria de 9V e para o cooler uma fonte.
 
+[POV - programação](https://mariaelenasilveira.github.io/jekyll/update/2018/08/20/bem-vindo-ao-jekyll.html "Clique e acesse agora!")
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
